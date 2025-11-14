@@ -3,7 +3,7 @@
 **Asignatura:** Programacion Avanzada  
 **Profesor:** M.Sc. Mauro Baquero-Suarez  
 **Programa:** Ingenieria Mecatronica  
-**Fecha de Entrega:** 11 de Noviembre de 2025
+
 
 ## Integrantes
 
